@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-    <title> Mosnegutu Cosmin - ASSIGMENT </title>
+    <title> Mosnegutu Cosmin - ASSIGNMENT </title>
     <?php 
         include ('db.php');
     ?>
