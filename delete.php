@@ -2,7 +2,7 @@
     include "db.php";
     
     //get id
-    $id = $_GET['id'];
+    $id = $_GET['id'];//ss
 
     //delete
     mysqli_query($conn,"DELETE from users WHERE id='$id'");
